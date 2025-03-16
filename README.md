@@ -30,7 +30,7 @@ Basic knowledge of command-line interfaces
 
 # Clone the Repository:
 
-git clone https://github.com/YourUsername/Math-Quiz-Game.git
+git clone https://github.com/Goutam16-Withcode/Math-Quiz-Game.git
 cd Math-Quiz-Game
 
 # Compile the Code:
@@ -75,27 +75,9 @@ Below 70 points: Keep Practicing! Math mastery is within reach.
 
 Example Gameplay
 
-Welcome to Math Quiz Game!
-Please Enter Your Name: Alex
+![Screenshot 2025-03-17 004905](https://github.com/user-attachments/assets/b0567284-705e-4fad-aa23-5f6ff6dd695f)
+![Screenshot 2025-03-17 004852](https://github.com/user-attachments/assets/34127a44-bec5-491d-8ba8-27e8b234a276)
 
-LEVEL 1: Addition Quiz (7 seconds per question)
-Question 1: 5 + 3 = 8
-Correct! +10 points
-
-LEVEL 2: Subtraction Quiz (7 seconds per question)
-Question 2: 14 - 5 = 9
-Correct! +10 points
-
-LEVEL 3: Multiplication Quiz (7 seconds per question)
-Question 3: 6 x 7 = 42
-Correct! +10 points
-
-LEVEL 4: Division Quiz (7 seconds per question)
-Question 4: 12 / 4 = 3
-Correct! +10 points
-
-GAME OVER! Final Score: 80
-Great Job!
 
 # Advanced Features for Future Development
 
