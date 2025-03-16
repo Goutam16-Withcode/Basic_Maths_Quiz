@@ -74,11 +74,8 @@ After completing all four levels, your final score will be displayed with feedba
 Below 70 points: Keep Practicing! Math mastery is within reach.
 
 Example Gameplay
-
-![Screenshot 2025-03-17 004905](https://github.com/user-attachments/assets/b0567284-705e-4fad-aa23-5f6ff6dd695f)
 ![Screenshot 2025-03-17 004852](https://github.com/user-attachments/assets/34127a44-bec5-491d-8ba8-27e8b234a276)
-
-
+![Screenshot 2025-03-17 004905](https://github.com/user-attachments/assets/b0567284-705e-4fad-aa23-5f6ff6dd695f)
 # Advanced Features for Future Development
 
 Here are some ideas to further improve the Math Quiz Game:
